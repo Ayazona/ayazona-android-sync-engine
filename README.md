@@ -1,14 +1,8 @@
-# Lyoneer
+# Ayazona
 
-[![Lyoneer logo](https://github.com/lyoneer/lyoneer/blob/master/assets/header-brand.png?raw=true)](https://lyoneer.com/about/)
+This repository is part of the source code of Lyoneer. You can find more information at [ayazona.com](https://ayazona.com) or by contacting info@ayazona.com.
 
-This repository is part of the source code of Lyoneer. You can find more information at [lyoneer.com](https://lyoneer.com) or by contacting opensource@lyoneer.com.
-
-You can find the published source code at [github.com/lyoneer](https://github.com/lyoneer). 
-
-# ZMessaging
-
-This repository contains sync library used by [Lyoneer for Android](https://github.com/lyoneer/lyoneer-android).
+You can find the published source code at [github.com/ayazona](https://github.com/ayazona). 
 
 ## Dependencies
 
